@@ -1,7 +1,7 @@
 # ECE444-F2020-Lab6
 This code is a copy of https://github.com/mjhea0/flaskr-tdd
 
-##Question 3
+## Question 3
 
 **Pros**:
 1. Makes code easier to maintain since TDD provides small tests.
